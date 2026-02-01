@@ -17,18 +17,24 @@ These projects were built using HTML5, CSS3, and Flexbox to create clean, modern
 
 ## Setup Instructions
 
-- Clone the repository.
-  git clone https://github.com/your-username/your-repo-name.git
-- Navigate into the project folder.
-  cd your-repo-name
+- Clone the repository:  
+  `git clone https://github.com/your-username/your-repo-name.git`
+
+- Navigate into the project folder:  
+  `cd your-repo-name`
+
 - Confirm the folder structure.
-  index.html
-  about.html
-  projects.html
-  contact.html
-  style.css
-  /images
-  No installation is required.
+
+## Folder Structure
+
+- index.html
+- about.html
+- projects.html
+- contact.html
+- style.css
+- /images
+
+No installation is required.
 
 ## Viewing Instructions
 
